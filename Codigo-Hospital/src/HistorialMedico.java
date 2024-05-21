@@ -5,4 +5,10 @@ public class HistorialMedico {
     private String procedimientos;
     private String hospitalizaciones;
     private String examenes;
+    //Relacioens
+    private Padecimiento[] padecimientoList;
+    private Diagnostico[] diagnosticoList;
+    private Receta[] recetaList;
+    private Paciente paciente;
+    
 }
