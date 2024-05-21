@@ -10,5 +10,5 @@ public class HistorialMedico {
     private Diagnostico[] diagnosticoList;
     private Receta[] recetaList;
     private Paciente paciente;
-    
+
 }
